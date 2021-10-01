@@ -1,0 +1,45 @@
+INFO  07:37:42 Application started. Press Ctrl+C to shut down.
+INFO  07:37:42 Hosting environment: Development
+INFO  07:37:42 Content root path: D:\POD5_AuditManagement_MFPE\AuditBenchmarkModule
+INFO  07:37:43  Http GET request AuditBenchmarkController
+INFO  07:37:43  Http GET request BenchmarkService
+INFO  07:37:43  Http GET request BenchmarkRepo
+INFO  07:37:26 Application started. Press Ctrl+C to shut down.
+INFO  07:37:26 Hosting environment: Development
+INFO  07:37:26 Content root path: D:\POD5_AuditManagement_MFPE\AuditBenchmarkModule
+INFO  07:46:06  Http GET request AuditBenchmarkController
+INFO  07:46:06  Http GET request BenchmarkService
+INFO  07:46:06  Http GET request BenchmarkRepo
+INFO  07:46:53  Http GET request AuditBenchmarkController
+INFO  07:46:53  Http GET request BenchmarkService
+INFO  07:46:53  Http GET request BenchmarkRepo
+INFO  07:48:13  Http GET request AuditBenchmarkController
+INFO  07:48:13  Http GET request BenchmarkService
+INFO  07:48:13  Http GET request BenchmarkRepo
+INFO  07:50:50  Http GET request AuditBenchmarkController
+INFO  07:50:50  Http GET request BenchmarkService
+INFO  07:50:50  Http GET request BenchmarkRepo
+INFO  07:56:11  Http GET request AuditBenchmarkController
+INFO  07:56:11  Http GET request BenchmarkService
+INFO  07:56:11  Http GET request BenchmarkRepo
+INFO  08:06:33  Http GET request AuditBenchmarkController
+INFO  08:06:33  Http GET request BenchmarkService
+INFO  08:06:33  Http GET request BenchmarkRepo
+INFO  08:40:43  Http GET request AuditBenchmarkController
+INFO  08:40:43  Http GET request BenchmarkService
+INFO  08:40:43  Http GET request BenchmarkRepo
+INFO  08:49:39  Http GET request AuditBenchmarkController
+INFO  08:49:39  Http GET request BenchmarkService
+INFO  08:49:39  Http GET request BenchmarkRepo
+INFO  10:45:53 Application started. Press Ctrl+C to shut down.
+INFO  10:45:53 Hosting environment: Development
+INFO  10:45:53 Content root path: D:\POD5_AuditManagement_MFPE\AuditBenchmarkModule
+INFO  10:52:06  Http GET request AuditBenchmarkController
+INFO  10:52:06  Http GET request BenchmarkService
+INFO  10:52:06  Http GET request BenchmarkRepo
+INFO  10:54:43  Http GET request AuditBenchmarkController
+INFO  10:54:43  Http GET request BenchmarkService
+INFO  10:54:43  Http GET request BenchmarkRepo
+INFO  10:56:34  Http GET request AuditBenchmarkController
+INFO  10:56:34  Http GET request BenchmarkService
+INFO  10:56:34  Http GET request BenchmarkRepo
